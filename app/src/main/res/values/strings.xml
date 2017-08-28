@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DLay</string>
+    <string-array name="types">
+        <item>Hola</item>
+        <item>Que Tal</item>
+        <item>Amigo</item>
+    </string-array>
+</resources>
